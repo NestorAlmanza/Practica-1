@@ -22,7 +22,8 @@
     </table>
      <!DOCTYPE HTML>
         <html>
-     <body>
+     <body>	
+	 <br>
             <form action="tarea.php">
             <input type="submit" value="Regresar" >
             </form>
